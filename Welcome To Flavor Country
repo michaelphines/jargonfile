@@ -1,0 +1,25 @@
+There is nothing like authentic. Nothing beats the real thing. Cars can’t fake fast, guitars can’t fake rock and roll, and no one can fake the feel-good flavors of American cuisine.
+
+Guy Fieri is one of the hottest celebrity chefs on the scene. In Guy’s Food Network series, Diners, Drive-Ins, and Dives, he tastes his way across the back roads of America gathering eclectic and savory inspiration along the way. This first-hand knowledge of American comfort food gone wild fuels the menu at Guy’s American Kitchen & Bar.
+
+```ruby
+class GithubPubsub
+  attr_reader :repo_path
+
+  def initialize(repo_path)
+    @repo_path = repo_path
+  end
+
+  def subscribe(event)
+    send_request('subscribe', event)
+  end
+
+  def unsubscribe(event)
+    send_request('unsubscribe', event)
+  end
+end
+```
+
+This dynamic restaurant features Guy’s signature style of cooking, big on flavor and short on boundaries. Guy Fieri packs classic American cuisine with unexpected flavor; food done right and sometimes in a way you never thought possible. Simply put, Guy’s American Kitchen & Bar allows hometown favorites and culinary expertise to satisfy the bold flavor cravings of visitors, fans and insatiable New Yorkers.
+
+Guy says, “I’ve lived my life by the motto ‘Go Big or Go Home’ so when it came time to get cookin’ in New York City, I couldn’t think of any better place than right in the heart of it all, Times Square. Great food and good times, that’s what this place is all about.”
